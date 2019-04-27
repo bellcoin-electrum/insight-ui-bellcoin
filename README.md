@@ -1,6 +1,6 @@
 # Insight UI
 
-A Bitcoin blockchain explorer web application service for [Bitcore Node](https://github.com/bitpay/bitcore-node) using the [Insight API](https://github.com/bitpay/insight-api).
+A Bitcoin blockchain explorer web application service for [Bellcore Node](https://github.com/bellcoin-electrum/bellcore-node) using the [Insight API for Bellcoin](https://github.com/bellcoin-electrum/insight-api-bellcoin).
 
 ## Quick Start
 
@@ -70,11 +70,11 @@ compile***.
 
 ## Note
 
-For more details about the [Insight API](https://github.com/bitpay/insight-api) configuration and end-points, go to [Insight API GitHub repository](https://github.com/bitpay/insight-api).
+For more details about the [Insight API for Bellcoin](https://github.com/bellcoin-electrum/insight-api-bellcoin) configuration and end-points, go to [Insight API for Bellcoin GitHub repository](https://github.com/bellcoin-electrum/insight-api-bellcoin).
 
 ## Contribute
 
-Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/bitpay/insight-ui).
+Contributions and suggestions are welcomed at the [Insight UI for Bellcoin GitHub repository](https://github.com/bellcoin-electrum/insight-ui-bellcoin).
 
 
 ## License
