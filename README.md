@@ -1,6 +1,6 @@
 # Insight UI
 
-A Bitcoin blockchain explorer web application service for [Bellcore Node](https://github.com/bellcoin-electrum/bellcore-node) using the [Insight API for Bellcoin](https://github.com/bellcoin-electrum/insight-api-bellcoin).
+A Bellcoin blockchain explorer web application service for [Bellcore Node](https://github.com/bellcoin-electrum/bellcore-node) using the [Insight API for Bellcoin](https://github.com/bellcoin-electrum/insight-api-bellcoin).
 
 ## Quick Start
 
