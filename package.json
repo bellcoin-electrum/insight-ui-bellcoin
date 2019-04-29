@@ -25,6 +25,12 @@
       "email": "bechilandia@gmail.com"
     }
   ],
+  "scripts": {
+    "build": "bower install && grunt compile",
+    "watch": "grunt",
+    "install-and-build": "npm install && npm run build",
+    "test": "mocha test"
+  },
   "bugs": {
     "url": "https://github.com/bellcoin-electrum/insight-ui-bellcoin/issues"
   },
