@@ -21,7 +21,7 @@ msgstr "404 ページがみつかりません (´・ω・`)"
 
 #: public/views/index.html
 msgid "<strong>insight</strong> is an <a href=\"https://insight.is/\" target=\"_blank\">open-source Bellcoin blockchain explorer</a> with complete REST and websocket APIs that can be used for writing web wallets and other apps that need more advanced blockchain queries than provided by bellcoind RPC. Check out the <a href=\"https://github.com/bellcoin-electrum/insight-ui-bellcoin\" target=\"_blank\">source code</a>."
-msgstr "<strong>insight</strong>は、bellcoind RPCの提供するものよりも詳細なブロックチェーンへの問い合わせを必要とするウェブウォレットやその他のアプリを書くのに使える、完全なRESTおよびwebsocket APIを備えた<a href=\"https://insight.is/\" target=\"_blank\">オープンソースのビットコインブロックエクスプローラ</a>です。ソースコードは<a href=\"https://github.com/bellcoin-electrum/insight-ui-bellcoin\" target=\"_blank\">こちら</a>。"
+msgstr "<strong>insight</strong>は、bellcoind RPCの提供するものよりも詳細なブロックチェーンへの問い合わせを必要とするウェブウォレットやその他のアプリを書くのに使える、完全なRESTおよびwebsocket APIを備えた<a href=\"https://insight.is/\" target=\"_blank\">オープンソースのベルコインブロックエクスプローラ</a>です。ソースコードは<a href=\"https://github.com/bellcoin-electrum/insight-ui-bellcoin\" target=\"_blank\">こちら</a>。"
 
 #: public/views/index.html
 msgid "<strong>insight</strong> is still in development, so be sure to report any bugs and provide feedback for improvement at our <a href=\"https://github.com/bellcoin-electrum/insight-ui-bellcoin/issues\" target=\"_blank\">github issue tracker</a>."
